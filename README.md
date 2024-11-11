@@ -29,8 +29,6 @@ Design a network in Cisco Packet Tracer to connect ACCOUNTS and DELIVERY departm
 # Subnet Block:
 - 256-last decimal of subnet mask = Subnet Block
 - 256-128 = 128
-
-
 - Subnet Number = 0, 128 
 
 # 1st Subnet
