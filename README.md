@@ -60,7 +60,7 @@ do show start
 #### PC in the Accounts Department
 ![6](https://github.com/user-attachments/assets/8674fceb-6cc1-4c0b-ab47-74594703c407)  
 #### Printer in the Accounts Department
-![7](https://github.com/user-attachments/assets/1c6da9b9-85eb-4cfd-9eec-73d2d34345c1)  
+![10](https://github.com/user-attachments/assets/dd402d95-3663-47e9-8a96-bb8c79b8559f)   
 ![8](https://github.com/user-attachments/assets/4641c1df-2430-4db8-9ee4-95cb39f55de7)  
 #### PC in the Delivery Department
 ![9](https://github.com/user-attachments/assets/a06a3162-b84a-46f9-8457-6117069b16fe)  
