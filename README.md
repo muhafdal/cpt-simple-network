@@ -15,7 +15,7 @@ Subnets needed: 2
 ### Number of Subnets:
 - 2^x = Subnets needed
 - 2^x = 2
-- x = 2/2
+- 2^1 = 2
 - x = 1, we have 1 as the number of ones in the last octet
 
 ### Subnet Mask:
