@@ -72,8 +72,3 @@ do show start
 ![12](https://github.com/user-attachments/assets/eed0eeb7-2157-48a5-8f00-bc5be2120430)  
 #### Perform a ping test from the Delivery Department PC to the Accounts Department PC and printer
 ![13](https://github.com/user-attachments/assets/ebb4b5a9-e273-4061-a81c-df12399fe02e)  
-
-### Acknowledgements  
-This project was inspired by the Gurutech Networking Training channel on YouTube. [Watch here](https://youtu.be/T8F5F9Jt8Yk?si=dWfbK0nQI2JoNkAg).  
-
-
